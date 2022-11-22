@@ -1,6 +1,6 @@
 # Autocorrection App
 
-Example for autocorrection app
+Example for autocorrection app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
